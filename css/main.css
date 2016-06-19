@@ -1,0 +1,239 @@
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    background: #fdf9f2 !important;
+}
+
+::selection {
+  background: #fff5be; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #fff5be; /* Gecko Browsers */
+}
+
+.bannertext{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    z-index: 100;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    min-width: 320px;
+}
+#logobanner{
+  width:  300px;
+  height: auto;
+  display: inline-block;
+  opacity: 0.9;
+  filter: alpha(opacity=90);
+}
+.headline{
+	margin-top: 0px !important;
+	font-size: 4em;
+	color:#554947;
+	font-weight: 500;
+	font-family: Josefin Slab,sans-serif;
+	position: relative;
+}
+.subline{
+font-family: Josefin Sans,serif;
+color:#402917;
+font-size: 1.2em;
+}
+
+.mainbody{
+	z-index: 99;
+	clear: both;
+	display: block;
+
+}
+hr.style16 { 
+  border-top: 1px dashed #8c8b8b; 
+} 
+hr.style16:after { 
+  content: '\002702'; 
+  display: inline-block; 
+  position: relative; 
+  top: -12px; 
+  left: 40px; 
+  padding: 0 3px; 
+  background: #fdf9f2; 
+  color: #8c8b8b; 
+  font-size: 18px; 
+
+}
+.mainbody{
+  margin-top: 5%;
+}
+.major{
+	text-transform: lowercase;
+	font-family: Josefin Slab;
+	font-size: 2.5em;
+}
+.minor{
+font-family: Josefin Sans,serif;
+color:#402917;
+font-size: 1.2em;
+margin-top: 11px;
+text-align: justify;
+}
+
+.pitem{
+	text-align: center;
+  display: inline-block;
+    zoom: 1;
+    letter-spacing: normal;
+    word-spacing: normal;
+    vertical-align: top;
+    text-rendering: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.proname{
+  margin-top:10px;
+	font-size: 1.2em;
+	font-family: Josefin Sans;
+	font-weight: 800;
+	display: block;
+}
+.procat{
+	display: block;
+	font-size: 0.9em;
+  font-weight: 600;
+	font-family: Josefin Sans;
+}
+a{
+  color:#554947 !important;
+  font-family: Josefin Sans;
+  font-weight: 600;
+}
+i{
+  color:#f73f2a;
+}
+i.social{
+  color:#fff;
+  background: #f73f2a;
+    padding:10px;
+    border-radius: 50%;
+}
+a:hover{
+  color:#f73f2a !important;
+  text-decoration: none !important;
+}
+.portfolioimage{
+  opacity: 0.9;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 50%;
+  max-width: 99%;
+  display: inline-block;
+  position: relative;
+  margin-top: 10%;
+}
+
+.portfolio{
+  margin-top: 5%;
+}
+
+
+.footer{
+  margin-bottom: 0px;
+  margin-top: 10%;
+}
+.navbar-text{
+  font-family: Josefin Sans;
+}
+.navbar-default{
+  background-color: #fdf9f2 !important;
+}
+#cover {position: fixed; height: 100%; width: 100%; top:0; left: 0; background: #fdf9f2; z-index:9999;}
+hr.sep {
+    background-color: black;
+    border: 0;
+    height: 2px;
+    margin-bottom: 21px;
+    width: 42px;
+}
+.aboutnav{
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+.nav>li>a{
+  font-size: 1.2em;
+}
+.secheader{
+  font-size: 2em;
+  font-family: Josefin Sans;
+  text-align: center;
+}
+.shuruwaat{
+  margin-top: 5%;
+  width: 75%;
+  margin-left:auto;
+  margin-right: auto;
+  padding-right: 15px;
+  padding-right: 15px;
+}
+.secdesc{
+  margin-top:1%;
+  font-family: Nunito,Josefin Sans;
+}
+img.footerlogo{
+position: absolute;
+    margin-top:5px;
+    display: none;
+}
+p.centrf{
+   text-align:center;
+   display:block;
+   margin-top:22px;
+   font-size:1.2em;
+}
+.logos{
+margin-left: 5%;
+
+}
+@media screen and (min-width: 800px){
+  /*Applies to screen more than 1000 or the md thingies, above works for sm*/
+  .portfolioimage{
+    max-width: 94%;
+  }
+  .proname{
+  margin-top:10px;
+  font-size: 1.4em;
+  font-weight: 800;
+}
+.procat{
+  font-size: 1.05em;
+  font-weight: 600;
+}
+.minor{
+  font-size: 1.4em;
+}
+.pitem{
+  padding-right: 15px;
+  padding-left: 15px;
+}
+img.footerlogo{
+  display: block;
+}
+p.centrf{
+  position: absolute;
+  left:22%;
+}
+.logos{
+  padding-left: 18%;
+}
+}
+
+@media screen and (min-width: 700px){
+}
+
+@media screen and (min-width: 550px){
+}
