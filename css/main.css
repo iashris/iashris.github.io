@@ -140,7 +140,9 @@ a:hover{
 .portfolio{
   margin-top: 5%;
 }
-
+#introbanner{
+  display: none;
+}
 
 .footer{
   margin-bottom: 0px;
@@ -199,15 +201,12 @@ p.centrf{
 margin-left: 5%;
 
 }
-canvas{
-  display: none;
-}
+
 @media screen and (min-width: 800px){
   /*Applies to screen more than 1000 or the md thingies, above works for sm*/
-canvas{
-  display: inline-block;
+#introbanner{
+  display: block;
 }
-
   .portfolioimage{
     max-width: 94%;
   }
