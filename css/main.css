@@ -1,6 +1,8 @@
 
 html, body {
     max-width: 100%;
+ 
+    margin: 0;
     overflow-x: hidden;
     background: #fdf9f2 !important;
 }
@@ -52,6 +54,9 @@ font-size: 1.2em;
 	clear: both;
 	display: block;
 
+}
+#introblock{
+  min-height: 100%;
 }
 hr.style16 { 
   border-top: 1px dashed #8c8b8b; 
