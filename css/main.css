@@ -34,6 +34,7 @@ html, body {
   display: inline-block;
   opacity: 0.9;
   filter: alpha(opacity=90);
+  cursor: pointer;
 }
 .headline{
 	margin-top: 0px !important;
