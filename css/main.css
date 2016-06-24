@@ -1,4 +1,16 @@
 
+@font-face{
+  font-family: 'Josefin Slab';
+  src:url('../fonts/1.woff2') format('woff2');
+}
+@font-face{
+  font-family: 'Nunito';
+  src:url('../fonts/2.woff2') format('woff2');
+}
+@font-face{
+  font-family: 'Josefin Sans';
+  src:url('../fonts/3.woff2') format('woff2');
+}
 html, body {
     max-width: 100%;
  
