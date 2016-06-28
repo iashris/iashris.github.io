@@ -192,15 +192,36 @@ hr.sep {
 }
 .shuruwaat{
   margin-top: 5%;
-  width: 75%;
   margin-left:auto;
   margin-right: auto;
   padding-right: 15px;
   padding-right: 15px;
 }
-.secdesc{
+.dexsec>h3{
+  font-family: Josefin Sans;
+  font-weight: 900;
+  color: #f73f2a;
+  margin-bottom: 10%;
+}
+.dexsec>h5{
+  font-family: Josefin Sans;
+  font-weight: 400;
+  margin-bottom: 1%;
+}
+.dexsec>p{
   margin-top:1%;
-  font-family: Nunito,Josefin Sans;
+  font-family: Josefin Sans;
+  margin-bottom: 8%;
+}
+.imxsec>img{
+  width: 100%;
+  height: auto;
+  margin-bottom: 4%;
+}
+.imxsec>p{
+  font-family: Josefin Sans;
+  font-size: 1.5em;
+  margin-bottom: 4%;
 }
 img.footerlogo{
 position: absolute;
