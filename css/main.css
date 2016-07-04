@@ -18,7 +18,9 @@ html, body {
     overflow-x: hidden;
     background: #fdf9f2 !important;
 }
-
+.footerbrand{
+  margin-left: 0%;
+}
 ::selection {
   background: #fff5be; /* WebKit/Blink Browsers */
 }
@@ -103,6 +105,7 @@ text-align: justify;
 }
 
 .pitem{
+  margin-top: 5%;
 	text-align: center;
   display: inline-block;
     zoom: 1;
@@ -115,14 +118,14 @@ text-align: justify;
 }
 .proname{
   margin-top:10px;
-	font-size: 1.2em;
+	font-size: 1em;
 	font-family: Josefin Sans;
 	font-weight: 800;
 	display: block;
 }
 .procat{
 	display: block;
-	font-size: 0.9em;
+	font-size: 0.7em;
   font-weight: 600;
 	font-family: Josefin Sans;
 }
@@ -213,15 +216,24 @@ hr.sep {
   font-family: Josefin Sans;
   margin-bottom: 8%;
 }
-.imxsec>img{
+.imxsec>figure>img{
   width: 100%;
   height: auto;
-  margin-bottom: 4%;
+}
+.imxsec>iframe{
+  width: 100%;
+  height:300px;
 }
 .imxsec>p{
   font-family: Josefin Sans;
   font-size: 1.5em;
   margin-bottom: 4%;
+  margin-top: 4%;
+}
+figcaption{
+  font-family: Josefin Sans;
+  font-style: italic;
+  margin-bottom: 3.5%;
 }
 img.footerlogo{
 position: absolute;
@@ -258,6 +270,7 @@ margin-left: 5%;
   font-size: 1.4em;
 }
 .pitem{
+  margin-top: 0.2%;
   padding-right: 15px;
   padding-left: 15px;
 }
@@ -270,6 +283,13 @@ p.centrf{
 }
 .logos{
   padding-left: 18%;
+}
+.imxsec>iframe{
+  width: 100%;
+  height:400px;
+}
+.footerbrand{
+  margin-left: 70%;
 }
 }
 
