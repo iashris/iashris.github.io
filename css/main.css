@@ -173,7 +173,16 @@ a:hover{
 .navbar-default{
   background-color: #fdf9f2 !important;
 }
-#cover {position: fixed; height: 100%; width: 100%; top:0; left: 0; background: #fdf9f2; z-index:9999;}
+#cover 
+{position: fixed; height: 100%; width: 100%; top:0; left: 0; background: #fdf9f2; z-index:9999;}
+.ajax-loader {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto; /* presto! */
+}
 hr.sep {
     background-color: black;
     border: 0;
