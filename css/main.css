@@ -264,7 +264,7 @@ margin-left: 5%;
   /*Applies to screen more than 1000 or the md thingies, above works for sm*/
 
   .portfolioimage{
-    max-width: 94%;
+    max-width: 90%;
   }
   .proname{
   margin-top:10px;
