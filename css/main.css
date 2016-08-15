@@ -1,21 +1,9 @@
 
-@font-face{
-  font-family: 'Josefin Slab';
-  src:url('../fonts/1.woff2') format('woff2');
-}
-@font-face{
-  font-family: 'Nunito';
-  src:url('../fonts/2.woff2') format('woff2');
-}
-@font-face{
-  font-family: 'Josefin Sans';
-  src:url('../fonts/3.woff2') format('woff2');
-}
 html, body {
     max-width: 100%;
- 
     margin: 0;
     overflow-x: hidden;
+    overflow-y:visible;
     background: #fdf9f2 !important;
 }
 .footerbrand{
@@ -236,8 +224,7 @@ hr.sep {
 .imxsec>p{
   font-family: Josefin Sans;
   font-size: 1.5em;
-  margin-bottom: 4%;
-  margin-top: 4%;
+
 }
 figcaption{
   font-family: Josefin Sans;
