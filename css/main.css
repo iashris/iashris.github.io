@@ -246,7 +246,12 @@ p.centrf{
 margin-left: 5%;
 
 }
-
+.hidden{
+  display: none;
+}
+a.potato{
+  cursor: pointer;
+}
 @media screen and (min-width: 800px){
   /*Applies to screen more than 1000 or the md thingies, above works for sm*/
 
@@ -279,6 +284,10 @@ p.centrf{
 }
 .logos{
   padding-left: 18%;
+}
+.thumbnails{
+  margin-top: 5%;
+  text-align: center;
 }
 .imxsec>iframe{
   width: 100%;
