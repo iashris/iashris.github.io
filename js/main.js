@@ -4,7 +4,7 @@ $(".introscroll").click(function() {
     }, 1200);
 });
 
-
+$("a").attr("target", "_blank");
 
 
 $('.xelec').click(function(){

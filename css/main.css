@@ -5,6 +5,7 @@ html, body {
     overflow-x: hidden;
     overflow-y:visible;
     background: #fdf9f2 !important;
+    font-weight: 600 !important;
 }
 .footerbrand{
   margin-left: 0%;
@@ -31,12 +32,13 @@ html, body {
     min-width: 320px;
 }
 #logobanner{
-  width:  300px;
+  width:  250px;
   height: auto;
   display: inline-block;
   opacity: 0.9;
   filter: alpha(opacity=90);
   cursor: pointer;
+  border-radius: 50%;
 }
 .headline{
 	margin-top: 0px !important;
@@ -47,7 +49,7 @@ html, body {
 	position: relative;
 }
 .subline{
-font-family: Josefin Sans,serif;
+font-family: Josefin Sans,sans-serif,arial,serif;
 color:#402917;
 font-size: 1.2em;
 }
@@ -60,6 +62,14 @@ font-size: 1.2em;
 }
 #introbanner{
   min-height: 100%;
+}
+.internlogo{
+  margin-bottom: 5%;
+  height:28px;
+}
+.conflogo{
+  margin-bottom: 5%;
+  height: 43px;
 }
 hr.style16 { 
   border-top: 1px dashed #8c8b8b; 
@@ -79,14 +89,20 @@ hr.style16:after {
 .mainbody{
   margin-top: 5%;
 }
+.blocker{
+  margin-bottom: 4%;
+}
+.blockerf{
+  margin-top:10%;
+}
 .major{
 	text-transform: lowercase;
-	font-family: Josefin Sans;
-	font-size: 2em;
-  font-weight: 400;
+	font-family: Josefin Sans,sans-serif,arial;
+	font-size: 2em !important;
+  font-weight: 400 !important;
 }
 .minor{
-font-family: Josefin Sans,serif;
+font-family: Josefin Sans,sans-serif,arial,serif;
 color:#402917;
 font-size: 1.1em;
 margin-top: 11px;
@@ -108,20 +124,27 @@ text-align: justify;
 .proname{
   margin-top:10px;
 	font-size: 1em;
-	font-family: Josefin Sans;
+	font-family: Josefin Sans,sans-serif,arial;
 	font-weight: 800;
 	display: block;
 }
+.hobbies{
+  text-align: center;
+}
+.abme>p{
+  margin-bottom: 5%;
+}
 .procat{
 	display: block;
-	font-size: 0.7em;
+	font-size: 1em;
   font-weight: 600;
-	font-family: Josefin Sans;
+  text-align: left;
+	font-family: Josefin Sans,sans-serif,arial;
 }
 a{
-  color:#554947 !important;
-  font-family: Josefin Sans;
-  font-weight: 600;
+  color:#c11603 !important;
+  font-family: Josefin Sans,sans-serif,arial;
+  font-weight: 900;
   cursor: pointer;
 }
 i{
@@ -159,7 +182,7 @@ a:hover{
   margin-top: 10%;
 }
 .navbar-text{
-  font-family: Josefin Sans;
+  font-family: Josefin Sans,sans-serif,arial;
 }
 .navbar-default{
   background-color: #fdf9f2 !important;
@@ -190,7 +213,7 @@ hr.sep {
 }
 .secheader{
   font-size: 2em;
-  font-family: Josefin Sans;
+  font-family: Josefin Sans,sans-serif,arial;
   text-align: center;
 }
 .shuruwaat{
@@ -201,19 +224,19 @@ hr.sep {
   padding-right: 15px;
 }
 .dexsec>h3{
-  font-family: Josefin Sans;
+  font-family: Josefin Sans,sans-serif,arial;
   font-weight: 900;
   color: #f73f2a;
   margin-bottom: 10%;
 }
 .dexsec>h5{
-  font-family: Josefin Sans;
+  font-family: Josefin Sans,sans-serif,arial;
   font-weight: 900;
   margin-bottom: 1%;
 }
 .dexsec>p,li{
   margin-top:1%;
-  font-family: Josefin Sans;
+  font-family: Josefin Sans,sans-serif,arial;
   margin-bottom: 8%;
 }
 .imxsec>figure>img{
@@ -225,12 +248,12 @@ hr.sep {
   min-height:400px;
 }
 .imxsec>p{
-  font-family: Josefin Sans;
+  font-family: Josefin Sans,sans-serif,arial;
   font-size: 1.5em;
 
 }
 figcaption{
-  font-family: Josefin Sans;
+  font-family: Josefin Sans,sans-serif,arial;
   font-style: italic;
   margin-bottom: 3.5%;
 }
@@ -267,7 +290,8 @@ a.potato{
   font-weight: 800;
 }
 .procat{
-  font-size: 1.05em;
+  font-size: 1.2em;
+  text-align: left;
   font-weight: 600;
 }
 .minor{
