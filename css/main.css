@@ -137,6 +137,7 @@ text-align: justify;
 }
 .abme>p{
   margin-bottom: 5%;
+  margin-left: 4%;
 }
 .procat{
 	display: block;
@@ -170,7 +171,7 @@ a:hover{
   text-align: center;
   vertical-align: middle;
   border-radius: 50%;
-  max-width: 99%;
+  max-width: 80%;
   display: inline-block;
   position: relative;
   margin-top: 10%;
@@ -286,7 +287,7 @@ a.potato{
   /*Applies to screen more than 1000 or the md thingies, above works for sm*/
 
   .portfolioimage{
-    max-width: 90%;
+    max-width: 72%;
   }
   .proname{
   margin-top:10px;
