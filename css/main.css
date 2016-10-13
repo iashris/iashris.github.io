@@ -91,21 +91,25 @@ hr.style16:after {
 }
 .blocker{
   margin-bottom: 4%;
+    font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
+    font-weight: 600 !important;
 }
 .blockerf{
   margin-top:10%;
+
 }
 .major{
 	text-transform: lowercase;
-	font-family: Josefin Sans,sans-serif,arial;
+	font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
 	font-size: 2em !important;
   font-weight: 400 !important;
 }
 .minor{
 font-family: Josefin Sans,sans-serif,arial,serif;
 color:#402917;
-font-size: 1.1em;
-margin-top: 11px;
+font-size: 1.1em !important;
+margin-top: 6px;
+font-weight: 600 !important;
 text-align: justify;
 }
 
@@ -124,7 +128,7 @@ text-align: justify;
 .proname{
   margin-top:10px;
 	font-size: 1em;
-	font-family: Josefin Sans,sans-serif,arial;
+	font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
 	font-weight: 800;
 	display: block;
 }
@@ -138,12 +142,12 @@ text-align: justify;
 	display: block;
 	font-size: 1em;
   font-weight: 600;
-  text-align: left;
-	font-family: Josefin Sans,sans-serif,arial;
+  text-align: justify;
+	font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
 }
 a{
   color:#c11603 !important;
-  font-family: Josefin Sans,sans-serif,arial;
+  font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
   font-weight: 900;
   cursor: pointer;
 }
@@ -182,7 +186,7 @@ a:hover{
   margin-top: 10%;
 }
 .navbar-text{
-  font-family: Josefin Sans,sans-serif,arial;
+  font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
 }
 .navbar-default{
   background-color: #fdf9f2 !important;
@@ -213,7 +217,7 @@ hr.sep {
 }
 .secheader{
   font-size: 2em;
-  font-family: Josefin Sans,sans-serif,arial;
+  font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
   text-align: center;
 }
 .shuruwaat{
@@ -224,19 +228,19 @@ hr.sep {
   padding-right: 15px;
 }
 .dexsec>h3{
-  font-family: Josefin Sans,sans-serif,arial;
+  font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
   font-weight: 900;
   color: #f73f2a;
   margin-bottom: 10%;
 }
 .dexsec>h5{
-  font-family: Josefin Sans,sans-serif,arial;
+  font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
   font-weight: 900;
   margin-bottom: 1%;
 }
 .dexsec>p,li{
   margin-top:1%;
-  font-family: Josefin Sans,sans-serif,arial;
+  font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
   margin-bottom: 8%;
 }
 .imxsec>figure>img{
@@ -248,12 +252,12 @@ hr.sep {
   min-height:400px;
 }
 .imxsec>p{
-  font-family: Josefin Sans,sans-serif,arial;
+  font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
   font-size: 1.5em;
 
 }
 figcaption{
-  font-family: Josefin Sans,sans-serif,arial;
+  font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
   font-style: italic;
   margin-bottom: 3.5%;
 }
@@ -290,8 +294,8 @@ a.potato{
   font-weight: 800;
 }
 .procat{
-  font-size: 1.2em;
-  text-align: left;
+  font-size: 1.1em;
+  text-align: justify;
   font-weight: 600;
 }
 .minor{
