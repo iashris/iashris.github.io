@@ -5,7 +5,9 @@ html, body {
     overflow-x: hidden;
     overflow-y:visible;
     background: #fdf9f2 !important;
-    font-weight: 600 !important;
+    font-weight: 400;
+    font-family: Josefin Sans,sans-serif,arial,serif !important;
+
 }
 .footerbrand{
   margin-left: 0%;
@@ -49,7 +51,6 @@ html, body {
 	position: relative;
 }
 .subline{
-font-family: Josefin Sans,sans-serif,arial,serif;
 color:#402917;
 font-size: 1.2em;
 }
@@ -91,8 +92,6 @@ hr.style16:after {
 }
 .blocker{
   margin-bottom: 4%;
-    font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
-    font-weight: 600 !important;
 }
 .blockerf{
   margin-top:10%;
@@ -100,16 +99,13 @@ hr.style16:after {
 }
 .major{
 	text-transform: lowercase;
-	font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
 	font-size: 2em !important;
   font-weight: 400 !important;
 }
 .minor{
-font-family: Josefin Sans,sans-serif,arial,serif;
 color:#402917;
-font-size: 1.1em !important;
+font-size: 1.2em !important;
 margin-top: 6px;
-font-weight: 600 !important;
 text-align: justify;
 }
 
@@ -117,6 +113,7 @@ text-align: justify;
   margin-top: 5%;
 	text-align: center;
   display: inline-block;
+  margin-bottom: 6%;
     zoom: 1;
     letter-spacing: normal;
     word-spacing: normal;
@@ -126,9 +123,8 @@ text-align: justify;
     padding-right: 5px;
 }
 .proname{
-  margin-top:10px;
+  margin-top:20px;
 	font-size: 1em;
-	font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
 	font-weight: 800;
 	display: block;
 }
@@ -140,15 +136,14 @@ text-align: justify;
   margin-left: 4%;
 }
 .procat{
+  margin-top:20px;
 	display: block;
-	font-size: 1em;
-  font-weight: 600;
+	font-size: 1.1em;
+  font-weight: 400;
   text-align: justify;
-	font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
 }
 a{
   color:#c11603 !important;
-  font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
   font-weight: 900;
   cursor: pointer;
 }
@@ -187,7 +182,6 @@ a:hover{
   margin-top: 10%;
 }
 .navbar-text{
-  font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
 }
 .navbar-default{
   background-color: #fdf9f2 !important;
@@ -218,7 +212,6 @@ hr.sep {
 }
 .secheader{
   font-size: 2em;
-  font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
   text-align: center;
 }
 .shuruwaat{
@@ -229,19 +222,16 @@ hr.sep {
   padding-right: 15px;
 }
 .dexsec>h3{
-  font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
   font-weight: 900;
   color: #f73f2a;
   margin-bottom: 10%;
 }
 .dexsec>h5{
-  font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
   font-weight: 900;
   margin-bottom: 1%;
 }
 .dexsec>p,li{
   margin-top:1%;
-  font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
   margin-bottom: 8%;
 }
 .imxsec>figure>img{
@@ -253,12 +243,12 @@ hr.sep {
   min-height:400px;
 }
 .imxsec>p{
-  font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
+
   font-size: 1.5em;
 
 }
 figcaption{
-  font-family: Josefin Sans,Helvetica Neue, Helvetica, sans-serif,arial;
+
   font-style: italic;
   margin-bottom: 3.5%;
 }
@@ -283,26 +273,43 @@ p.centrf{
 a.potato{
   cursor: pointer;
 }
+.pitem:nth-child(2),.minor.col-md-3:nth-child(3){
+  border: 0;
+}
 @media screen and (min-width: 800px){
+
   /*Applies to screen more than 1000 or the md thingies, above works for sm*/
+.pitema:nth-child(2),.minor.col-md-3:nth-child(3){
+  border: 1px solid #ddd;
+  border-top:0;
+  border-bottom: 0;
+}
+
+
 
   .portfolioimage{
     max-width: 72%;
   }
   .proname{
-  margin-top:10px;
+  margin-top:20px;
   font-size: 1.4em;
   font-weight: 800;
 }
 .procat{
-  font-size: 1.1em;
+/*  display: none;
+  visibility: hidden;*/
+margin-top:16px;
+  font-size: 1.2em;
   text-align: justify;
-  font-weight: 600;
+  font-weight: 400;
+  width: 85%;
+  margin-left: 7.5%;
 }
 .minor{
   font-size: 1.2em;
 }
 .pitem{
+
   margin-top: 0.2%;
   padding-right: 15px;
   padding-left: 15px;
