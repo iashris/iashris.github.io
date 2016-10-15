@@ -7,6 +7,7 @@ $(".introscroll").click(function() {
 $("a").attr("target", "_blank");
 
 
+
 $('.xelec').click(function(){
 $('.pitem').addClass("hidden");
 $('.pitem').removeClass("pitema");
@@ -66,7 +67,7 @@ function Particle() {
   }
 
   this.show = function() {
-    stroke(190,30);
+    stroke('rgba(205,147,112,0.055)');
     this.h = this.h + 1;
     if (this.h > 255) {
       this.h = 0;
@@ -113,10 +114,15 @@ var fr;
 var particles = [];
 
 var flowfield;
-
+if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+var stopat=500;
+}
+else{
+	var stopat=1200;
+}
 function setup() {
 	frameRate(60);
-  var mycanvas=createCanvas($('#introbanner').width(), $('#introbanner').height());
+  var mycanvas=createCanvas(screen.width, $('#introbanner').height());
   mycanvas.parent('introbanner');
   colorMode(HSB, 255);
   cols = floor(width / scl);
@@ -129,19 +135,17 @@ function setup() {
 }
 
 function draw() {
-
-	background(255,245,190,0.9);
   var yoff = 0;
   for (var y = 0; y < rows; y++) {
     var xoff = 0;
     for (var x = 0; x < cols; x++) {
       var index = x + y * cols;
-      var angle = noise(xoff, yoff, zoff) * TWO_PI * 8;
+      var angle = noise(xoff, yoff, zoff) * TWO_PI * 6.9;
       var v = p5.Vector.fromAngle(angle);
-      v.setMag(3);
+      v.setMag(5);
       flowfield[index] = v;
       xoff += inc;
-      stroke(0, 50);
+      //stroke(0, 50);
 
     }
     yoff += inc;
@@ -154,6 +158,6 @@ function draw() {
     particles[i].edges();
     particles[i].show();
   }
-  console.log(frameCount)
-if(frameCount>1200) noLoop();
+if(frameCount>stopat) noLoop();
 }
+
