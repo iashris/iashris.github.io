@@ -31,6 +31,8 @@ html, body {
     -o-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%);
     min-width: 320px;
+
+
 }
 #logobanner{
   width:  250px;
@@ -48,10 +50,14 @@ html, body {
 	font-weight: 500;
 	font-family: Josefin Slab,sans-serif;
 	position: relative;
+
 }
 .subline{
 color:#402917;
 font-size: 1.2em;
+padding: 15px;
+ /**/
+
 }
 
 .mainbody{

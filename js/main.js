@@ -37,12 +37,17 @@ $('.pitem').removeClass("hidden");
 $('.pitem').addClass("pitema");
 $('.switchrow').addClass("row");
 });
+if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+
+}
+else{
 
 function Particle() {
+  //this.pos = createVector(random(width), random(height));
   this.pos = createVector(random(width), random(height));
   this.vel = createVector(0, 0);
   this.acc = createVector(0, 0);
-  this.maxspeed = 4;
+  this.maxspeed = 10;
   this.h = 0;
 
   this.prevPos = this.pos.copy();
@@ -67,13 +72,16 @@ function Particle() {
   }
 
   this.show = function() {
-    stroke('rgba(205,147,112,0.055)');
+    //stroke('rgba(205,147,112,0.055)');
+    // stroke(30,30);
+    stroke('rgba(140,20,20,0.055)');
     this.h = this.h + 1;
-    if (this.h > 255) {
-      this.h = 0;
-    }
-    strokeWeight(1);
+    // if (this.h > 255) {
+    //   this.h = 0;
+    // }
+    strokeWeight(0.5);
     line(this.pos.x, this.pos.y, this.prevPos.x, this.prevPos.y);
+
     this.updatePrev();
   }
 
@@ -100,10 +108,20 @@ function Particle() {
       this.updatePrev();
     }
 
+    var XXX=this.pos.x-width/2;
+    var YYY=this.pos.y-height/2;
+    if(XXX*XXX+YYY*YYY<height*height/4 && Math.random()>0.6){
+    	var xes=[random(0,width*0.6),random(width*0.8,width)]
+    	var yes=[random(0,height*0.6),random(height*0.8,height)]
+    	this.pos.x=random(yes);
+    	this.pos.y=random(xes);
+    	this.updatePrev();
+    }
+
   }
 
 }
-var inc = 0.1;
+var inc = 0.25;
 var scl = 30;
 var cols, rows;
 
@@ -114,12 +132,7 @@ var fr;
 var particles = [];
 
 var flowfield;
-if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-var stopat=500;
-}
-else{
-	var stopat=1200;
-}
+
 function setup() {
 	frameRate(60);
   var mycanvas=createCanvas(screen.width, $('#introbanner').height());
@@ -129,18 +142,19 @@ function setup() {
   rows = floor(height / scl);
   flowfield = new Array(cols * rows);
 
-  for (var i = 0; i < 300; i++) {
+  for (var i = 0; i < 250; i++) {
     particles[i] = new Particle();
   }
 }
 
 function draw() {
+
   var yoff = 0;
   for (var y = 0; y < rows; y++) {
     var xoff = 0;
     for (var x = 0; x < cols; x++) {
       var index = x + y * cols;
-      var angle = noise(xoff, yoff, zoff) * TWO_PI * 6.9;
+      var angle = noise(xoff, yoff, zoff) * TWO_PI * 1.25;
       var v = p5.Vector.fromAngle(angle);
       v.setMag(5);
       flowfield[index] = v;
@@ -158,6 +172,8 @@ function draw() {
     particles[i].edges();
     particles[i].show();
   }
-if(frameCount>stopat) noLoop();
+if(frameCount>1200) noLoop();
 }
+}
+
 
