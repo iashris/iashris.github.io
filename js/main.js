@@ -74,7 +74,7 @@ function Particle() {
   this.show = function() {
     //stroke('rgba(205,147,112,0.055)');
     // stroke(30,30);
-    stroke('rgba(140,20,20,0.055)');
+    stroke('rgba(30,10,5,0.045)');
     this.h = this.h + 1;
     // if (this.h > 255) {
     //   this.h = 0;
@@ -121,7 +121,7 @@ function Particle() {
   }
 
 }
-var inc = 0.25;
+var inc = 0.2;
 var scl = 30;
 var cols, rows;
 
