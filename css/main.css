@@ -18,6 +18,7 @@ html, body {
 ::-moz-selection {
   background: #fff5be; /* Gecko Browsers */
 }
+
 .bannertext{
     display: block;
     margin: 0 auto;
@@ -127,6 +128,7 @@ text-align: justify;
     padding-left: 5px;
     padding-right: 5px;
 }
+
 .proname{
   margin-top:20px;
 	font-size: 1em;
