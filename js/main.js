@@ -37,6 +37,12 @@ $('.pitem').removeClass("hidden");
 $('.pitem').addClass("pitema");
 $('.switchrow').addClass("row");
 });
+
+$('.jumpro').click(function(){
+      $('html, body').animate({
+        scrollTop: $(".thumbnails").offset().top
+    }, 1600);
+});
 // if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
 
 // }

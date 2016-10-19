@@ -18,7 +18,11 @@ html, body {
 ::-moz-selection {
   background: #fff5be; /* Gecko Browsers */
 }
-
+.jumpro,.fakein{
+  color: #c11603;
+  font-weight: 800;
+  cursor: pointer;
+}
 .bannertext{
     display: block;
     margin: 0 auto;
