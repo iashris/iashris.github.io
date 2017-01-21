@@ -161,6 +161,15 @@ a{
 }
 i{
   color:#f73f2a;
+
+}
+.introscroll{
+  font-size:3em!important;
+  margin-top:15%;
+  opacity:0.8;
+  cursor:pointer;
+  
+
 }
 i.social{
   color:#fff;
