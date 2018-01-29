@@ -4,7 +4,7 @@ $(".introscroll").click(function() {
     }, 1200);
 });
 
-$("a").attr("target", "_blank");
+// $("a").attr("target", "_blank");
 
 var toggled=0;
 $('#haww').hide();
@@ -54,7 +54,7 @@ $('.toggleme').html('You can check out the other things I do <span class="fakein
 else{
 	$('.abme').show();
 	$('.toggleme').html('To hide this information, click <span class="fakein" onclick="hojao();">here.</span>');
-	
+
 }
 
 };
