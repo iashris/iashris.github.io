@@ -1,0 +1,90 @@
+[
+  {
+    "link": "http://the-identity-distorter.herokuapp.com/",
+    "name": "The Identity Distorter",
+    "src": "img/pth/4.jpg",
+    "desc": "Famous personalities describing their identity in first person basis using tweets that other people have used for them.",
+    "meta": "2016 • Self Project",
+    "pos": 220.0
+  },
+  {
+    "link": "aug.html",
+    "name": "Augmented Rupaiyya",
+    "src": "img/pth/moneyar.jpg",
+    "desc": "Augmented reality app made with Vuforia that summons Pokemons on different notes of Indian currencies.",
+    "meta": "2017 • Self Project",
+    "pos": 270.0
+  },
+  {
+    "link": "listen.html",
+    "name": "Listen To This KGP!",
+    "src": "img/pth/listen.jpg",
+    "desc": "A Chrome extension built for the LTTK community to recommend favorite songs to their college-mates.",
+    "meta": "2017 • Self Project",
+    "pos": 180.0
+  },
+  {
+    "link": "condenser.html",
+    "name": "Exam Condenser",
+    "src": "img/pth/5.jpg",
+    "desc": "The <a href=\"https://chrome.google.com/webstore/detail/nptel-condenser/blkbiemnncjjjhhgomoeakfcnjficocl\">Chrome Extension</a> that skips user marked 'redundant' portions of video lectures, thus saving collective time.",
+    "meta": "2016 • Self Project",
+    "pos": 160.0
+  },
+  {
+    "link": "pooled.html",
+    "name": "Pool-ed",
+    "src": "img/pth/pooled.jpg",
+    "desc": "Product (in-development) boosts retention rate of MOOC courses through an incentive based system for learners.",
+    "meta": "2018 • StartMIT Team",
+    "pos": 90.0
+  },
+  {
+    "link": "https://ashris.github.io/TREX/",
+    "name": "Listen, TREX!",
+    "src": "img/pth/13.gif",
+    "desc": "Made the Chrome game voice-activated to prank my cousins into believing I posess magic.",
+    "meta": "2016 • Self Project",
+    "pos": 250.0
+  },
+  {
+    "link": "planning.html",
+    "name": "Algorithmic Planning",
+    "src": "img/pth/8.jpg",
+    "desc": "Algorithms to automate the task of urban planning by taking in citizen contributed data.",
+    "meta": "2014 • ETH Zurich",
+    "pos": 230.0
+  },
+  {
+    "link": "https://vimeo.com/150461691",
+    "name": "Wireless Mandala",
+    "src": "img/pth/wima.png",
+    "desc": "Interactive wireless Mandala pattern generated via accelerometer data transmitted via OSC messages.",
+    "meta": "2015 • Self Project",
+    "pos": 260.0
+  },
+  {
+    "link": "http://iashris.com/psychedelia",
+    "name": "Psychedelia",
+    "src": "img/pth/psych.gif",
+    "desc": "Real time visualization of trippy desi music with generative geometry built using beat amplitude data.",
+    "meta": "2017 • Self Project",
+    "pos": 140.0
+  },
+  {
+    "link": "http://theindiantimemachine.github.io/",
+    "name": "The Indian Time Machine",
+    "src": "img/pth/1.gif",
+    "desc": "Portal of memories of nostalgia from the good old India of the 90's. 1.8k+ likes and 250+ shares till date.",
+    "meta": "2016 • Self Project",
+    "pos": 150.0
+  },
+  {
+    "link": "moons.html",
+    "name": "Moons of Pandora",
+    "src": "img/pth/moon.jpg",
+    "desc": "Twitter Bot that creates fictional fantasy moons every half an hour since 24th September 2016.",
+    "meta": "2016 • Self Project",
+    "pos": 120.0
+  }
+]

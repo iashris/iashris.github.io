@@ -1,0 +1,354 @@
+<!--Row1--><!--Row1--><!--Row1--><div class="row switchrow">
+m
+
+    <div class="col-md-4 col-xs-12 pitem pitema vizu">
+        <div class="linkt">
+            <a href="indecoded.html">
+                <img class="portfolioimage" src="img/pth/6.gif">
+                <span class="proname">Indecoded</span>
+                <span class="prometa">2016 • Self Project</span>
+            </a>
+        </div>
+            <span class="procat">An data visualization project that illustrates facts about India through animated cartograms.</span>
+    </div>
+
+   <div class="col-md-4 col-xs-12 pitem pitema vizu">
+        <div class="linkt">
+            <a href="https://vimeo.com/150315138">
+                <img class="portfolioimage" src="img/pth/12.gif">
+                <span class="proname">Roses in Resonance</span>
+                <span class="prometa">2015 • Self Project</span>
+            </a>
+        </div>
+            <span class="procat">Music transformed into rose through traced motion of a cube controlled the musical frequency.</span>
+    </div>
+
+
+<!--Row1--><!--Row1--><!--Row1--></div>
+
+<!--Row1--><!--Row1--><!--Row1--><div class="row switchrow">
+       <div class="col-md-4 col-xs-12 pitem pitema rese vizu">
+        <div class="linkt">
+            <a href="https://thescholarsavenue.github.io/Happiness/">
+                <img class="portfolioimage" src="img/pth/3.gif">
+                <span class="proname">The Happiness Project</span>
+                <span class="prometa">2016 • Self Project</span>
+            </a>
+        </div>
+            <span class="procat">An attempt to quantify happiness and make a formula. 713 test subjects and study of 11 major features.
+</span>
+    </div>
+
+   <div class="col-md-4 col-xs-12 pitem pitema soft">
+        <div class="linkt">
+            <a href="date.html">
+                <img class="portfolioimage" src="img/pth/date.gif">
+                <span class="proname">A Date With Yourself</span>
+                <span class="prometa">2017 • MIT Media Lab</span>
+            </a>
+        </div>
+            <span class="procat">An artistic experience to trace how your identity has moulded in subtle ways over the years.</span>
+    </div>
+
+<!--Row4-->
+<div class="col-md-4 col-xs-12 pitem pitema rese soft">
+        <div class="linkt">
+            <a href="trafix.html">
+                <img class="portfolioimage" src="img/pth/10.gif">
+                <span class="proname">Trafix</span>
+                <span class="prometa">2016 • GE Edison challenge</span>
+            </a>
+        </div>
+            <span class="procat">Gamification based platform to reinforce good traffic behavior. Top 10 in India in GE Edison Challenge.</span>
+    </div>
+
+
+
+
+<!--Row1--><!--Row1--><!--Row1--></div>
+<!--Row1--><!--Row1--><!--Row1--><div class="row switchrow">
+
+
+
+
+    <div class="col-md-4 col-xs-12 pitem pitema soft soft">
+        <div class="linkt">
+            <a href="http://mas834.media.mit.edu/2017/11/01/team-8-scentiment/">
+                <img class="portfolioimage" src="img/pth/scent.jpg">
+                <span class="proname">Scentiment</span>
+                <span class="prometa">2017 • MIT Media Lab</span>
+            </a>
+        </div>
+            <span class="procat">Product lets loved ones transcend physical boundaries by synchronizing spatial presence through smell.</span>
+    </div>
+
+   <div class="col-md-4 col-xs-12 pitem pitema rese">
+        <div class="linkt">
+            <a href="http://mas834.media.mit.edu/2017/12/06/sound-of-shape/">
+                <img class="portfolioimage" src="img/pth/shape.jpg">
+                <span class="proname">Sound of Shape</span>
+                <span class="prometa">2017 • MIT Media Lab</span>
+            </a>
+        </div>
+            <span class="procat">A conceptual musical instrument that enables users to create sounds by manipulating shapes.</span>
+    </div>
+
+
+ <div class="col-md-4 col-xs-12 pitem pitema soft">
+        <div class="linkt">
+            <a href="pooled.html">
+                <img class="portfolioimage" src="img/pth/pooled.jpg">
+                <span class="proname">Pool-ed</span>
+                <span class="prometa">2018 • StartMIT Team</span>
+            </a>
+        </div>
+            <span class="procat">Product (in-development) boosts retention rate of MOOC courses through an incentive based system for learners.</span>
+    </div>
+
+
+
+<!--Row1--><!--Row1--><!--Row1--></div>
+<!--Row1--><!--Row1--><!-- Raja Yahan Aao machate hain Row1--><div class="row switchrow">
+
+     <div class="col-md-4 col-xs-12 pitem pitema soft">
+        <div class="linkt">
+            <a href="twopointtwo.html">
+                <img class="portfolioimage" src="img/pth/twotwo.jpg">
+                <span class="proname">TwoPoint2</span>
+                <span class="prometa">2016 • Self Project</span>
+            </a>
+        </div>
+            <span class="procat">Gamified messaging platform that stimulates deep poignant conversations, much like the 2.2 road in IIT KGP.</span>
+    </div>
+
+     <div class="col-md-4 col-xs-12 pitem pitema soft">
+        <div class="linkt">
+            <a href="https://skyofthoughts.github.io/">
+                <img class="portfolioimage" src="img/pth/skei.gif">
+                <span class="proname">Sky of Thoughts</span>
+                <span class="prometa">2017 • Self Project</span>
+            </a>
+        </div>
+            <span class="procat">A community platform that encourages users to share their sorrows, rants and anxieties with others.</span>
+    </div>
+
+<!--Row4-->
+ <div class="col-md-4 col-xs-12 pitem pitema soft">
+        <div class="linkt">
+            <a href="moons.html">
+                <img class="portfolioimage" src="img/pth/moon.jpg">
+                <span class="proname">Moons of Pandora</span>
+                <span class="prometa">2016 • Self Project</span>
+            </a>
+        </div>
+            <span class="procat">Twitter Bot that creates fictional fantasy moons every half an hour since 24th September 2016.</span>
+    </div>
+
+
+
+<!--Row1--><!--Row1--><!--Row1--></div>
+
+<!--Row1--><!--Row1--><!--Row1--><div class="row switchrow">
+
+    <div class="col-md-4 col-xs-12 pitem pitema elec">
+        <div class="linkt">
+            <a href="musical_facade.html">
+                <img class="portfolioimage" src="img/pth/2.gif">
+                <span class="proname">The Musical Facade</span>
+                <span class="prometa">2014 • Team Project</span>
+            </a>
+        </div>
+            <span class="procat">Art installation that responds to music by syncing its motion with the dominant frequency of a musical note.</span>
+    </div>
+
+     <div class="col-md-4 col-xs-12 pitem pitema soft">
+        <div class="linkt">
+            <a href="http://iashris.com/psychedelia">
+                <img class="portfolioimage" src="img/pth/psych.gif">
+                <span class="proname">Psychedelia</span>
+                <span class="prometa">2017 • Self Project</span>
+            </a>
+        </div>
+            <span class="procat">Real time visualization of trippy desi music with generative geometry built using beat amplitude data.</span>
+    </div>
+
+    <!--Row3-->
+
+<!--Roses comes here-->
+   <div class="col-md-4 col-xs-12 pitem pitema soft">
+        <div class="linkt">
+            <a href="http://theindiantimemachine.github.io/">
+                <img class="portfolioimage" src="img/pth/1.gif">
+                <span class="proname">The Indian Time Machine</span>
+                <span class="prometa">2016 • Self Project</span>
+            </a>
+        </div>
+            <span class="procat">Portal of memories of nostalgia from the good old India of the 90's. 1.8k+ likes and 250+ shares till date.</span>
+    </div>
+
+
+
+<!--Row1--><!--Row1--><!--Row1--></div>
+<!--Row1--><!--Row1--><!--Row1--><div class="row switchrow">
+
+
+
+
+
+  <div class="col-md-4 col-xs-12 pitem pitema soft">
+        <div class="linkt">
+            <a href="condenser.html">
+                <img class="portfolioimage" src="img/pth/5.jpg">
+                <span class="proname">Exam Condenser</span>
+                <span class="prometa">2016 • Self Project</span>
+            </a>
+        </div>
+            <span class="procat">The <a href="https://chrome.google.com/webstore/detail/nptel-condenser/blkbiemnncjjjhhgomoeakfcnjficocl">Chrome Extension</a> that skips user marked 'redundant' portions of video lectures, thus saving collective time.</span>
+    </div>
+
+  <div class="col-md-4 col-xs-12 pitem pitema soft">
+        <div class="linkt">
+            <a href="sparreo.html">
+                <img class="portfolioimage" src="img/pth/sparreo.jpg">
+                <span class="proname">Sparreo</span>
+                <span class="prometa">2016 • GES Hackathon</span>
+            </a>
+        </div>
+            <span class="procat">A Messenger bot that acts as a global Lost and Found – Winner, GES Hackathon 2016 at IIT Kharagpur</span>
+    </div>
+
+      <div class="col-md-4 col-xs-12 pitem pitema soft">
+        <div class="linkt">
+            <a href="listen.html">
+                <img class="portfolioimage" src="img/pth/listen.jpg">
+                <span class="proname">Listen To This KGP!</span>
+                <span class="prometa">2017 • Self Project</span>
+            </a>
+        </div>
+            <span class="procat">A Chrome extension built for the LTTK community to recommend favorite songs to their college-mates.</span>
+    </div>
+
+
+<!--Row1--><!--Row1--><!--Row1--></div>
+
+<!--Row1--><!--Row1--><!--Row1--><div class="row switchrow">
+
+ <div class="col-md-4 col-xs-12 pitem pitema rese">
+        <div class="linkt">
+            <a href="20000.html">
+                <img class="portfolioimage" src="img/pth/7.jpg">
+                <span class="proname">20000 Blocks</span>
+                <span class="prometa">2016 • TU Darmstadt</span>
+            </a>
+        </div>
+            <span class="procat">Gameplay to guide a group of non-experts through the creation of collaborative architectural designs.</span>
+    </div>
+
+
+
+  <div class="col-md-4 col-xs-12 pitem pitema elec">
+        <div class="linkt">
+            <a href="htmaa.html">
+                <img class="portfolioimage" src="img/pth/10.jpg">
+                <span class="proname">How to Make (Almost) Anything</span>
+                <span class="prometa">2014 • Multiple Projects</span>
+            </a>
+        </div>
+            <span class="procat">Electronics + Fabrication + Design projects of 'How to make (almost) anything' course at Fablab.</span>
+    </div>
+
+
+
+    <div class="col-md-4 col-xs-12 pitem pitema rese elec">
+        <div class="linkt">
+            <a href="vr.html">
+                <img class="portfolioimage" src="img/pth/9.jpg">
+                <span class="proname">Architecture with VR</span>
+                <span class="prometa">2015 • ETH Zurich</span>
+            </a>
+        </div>
+            <span class="procat">VR + ML based framework developed for architects to get realtime cognitive analysis of their spatial design.</span>
+    </div>
+
+<!--Row1--><!--Row1--><!--Row1--></div>
+<!--Row1--><!--Row1--><!--Row1--><div class="row switchrow">
+
+
+
+
+    <div class="col-md-4 col-xs-12 pitem pitema soft soft">
+        <div class="linkt">
+            <a href="http://the-identity-distorter.herokuapp.com/">
+                <img class="portfolioimage" src="img/pth/4.jpg">
+                <span class="proname">The Identity Distorter</span>
+                <span class="prometa">2016 • Self Project</span>
+            </a>
+        </div>
+            <span class="procat">Famous personalities describing their identity in first person basis using tweets that other people have used for them.</span>
+    </div>
+
+   <div class="col-md-4 col-xs-12 pitem pitema rese">
+        <div class="linkt">
+            <a href="planning.html">
+                <img class="portfolioimage" src="img/pth/8.jpg">
+                <span class="proname">Algorithmic Planning</span>
+                <span class="prometa">2014 • ETH Zurich</span>
+            </a>
+        </div>
+            <span class="procat">Algorithms to automate the task of urban planning by taking in citizen contributed data.</span>
+    </div>
+
+
+ <div class="col-md-4 col-xs-12 pitem pitema soft">
+        <div class="linkt">
+            <a href="http://iashris.com/quickies/square.html">
+                <img class="portfolioimage" src="img/pth/algoart.jpg">
+                <span class="proname">Algorithmic Art</span>
+                <span class="prometa">2016 • Self Project</span>
+            </a>
+        </div>
+            <span class="procat">Pattern generator that lets children create shapes such as cardoids and nephroids (Desktop only)</span>
+    </div>
+
+
+
+<!--Row1--><!--Row1--><!--Row1--></div>
+<!--Row1--><!--Row1--><!--Row1--><div class="row switchrow">
+
+
+
+
+ <div class="col-md-4 col-xs-12 pitem pitema soft">
+        <div class="linkt">
+            <a href="https://ashris.github.io/TREX/">
+                <img class="portfolioimage" src="img/pth/13.gif">
+                <span class="proname">Listen, TREX!</span>
+                <span class="prometa">2016 • Self Project</span>
+            </a>
+        </div>
+            <span class="procat">Made the Chrome game voice-activated to prank my cousins into believing I posess magic.</span>
+    </div>
+
+ <div class="gcol-md-4 col-xs-12 pitem pitema soft">
+        <div class="linkt">
+            <a href="https://vimeo.com/150461691">
+                <img class="portfolioimage" src="img/pth/wima.png">
+                <span class="proname">Wireless Mandala</span>
+                <span class="prometa">2015 • Self Project</span>
+            </a>
+        </div>
+            <span class="procat">Interactive wireless Mandala pattern generated via accelerometer data transmitted via OSC messages.</span>
+    </div>
+     <div class="col-md-4 col-xs-12 pitem pitema soft">
+        <div class="linkt">
+            <a href="aug.html">
+                <img class="portfolioimage" src="img/pth/moneyar.jpg">
+                <span class="proname">Augmented Rupaiyya</span>
+                <span class="prometa">2017 • Self Project</span>
+            </a>
+        </div>
+            <span class="procat">Augmented reality app made with Vuforia that summons Pokemons on different notes of Indian currencies.</span>
+    </div>
+
+<!--Row1--><!--Row1--><!--Row1--></div>
+

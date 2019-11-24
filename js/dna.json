@@ -1,0 +1,224 @@
+{
+  "projects": [
+    {
+      "link": "https://www.media.mit.edu/projects/mathland/overview/",
+      "name": "Mathland",
+      "src": "img/pth/mathland.jpg",
+      "desc": "An Augmented Reality application that makes learning physics fun through interactive spatial experiences.",
+      "meta": "2017 • MIT Media Lab",
+      "pos": 10.0
+    },
+    {
+      "link": "https://www.youtube.com/channel/UC3vpdI7klzLSLNgqZEESZ4g",
+      "name": "India in Pixels",
+      "src": "img/pth/iip.png",
+      "desc": "A series of dynamic bar ranking videos illustrating social and entertainment stats centred around India.",
+      "meta": "2019 • Self Project",
+      "pos": 1
+    },
+    {
+      "link": "https://dam-prod.media.mit.edu/x/2018/03/23/p43-kapur_BRjFwE6.pdf",
+      "name": "Alter Ego",
+      "src": "img/pth/alterego.png",
+      "desc": "Silent-Speech Interface for Assistive and Intelligence Augmentation with wearable EMG and Auditory Feedback via Bone Conduction.",
+      "meta": "2018 • MIT Media Lab",
+      "pos": 9.91
+    },
+    {
+      "link": "indecoded.html",
+      "name": "Indecoded",
+      "src": "img/pth/6.gif",
+      "desc": "An data visualization project that illustrates facts about India through animated cartograms.",
+      "meta": "2016 • Self Project",
+      "pos": 30.0
+    },
+    {
+      "link": "https://vimeo.com/150315138",
+      "name": "Roses in Resonance",
+      "src": "img/pth/12.gif",
+      "desc": "Music transformed into rose through traced motion of a cube controlled the musical frequency.",
+      "meta": "2015 • Self Project",
+      "pos": 21.0
+    },
+    {
+      "link": "https://thescholarsavenue.github.io/Happiness/",
+      "name": "The Happiness Project",
+      "src": "img/pth/3.gif",
+      "desc": "An attempt to quantify happiness and make a formula. 713 test subjects and study of 11 major features.\n",
+      "meta": "2016 • Self Project",
+      "pos": 40.0
+    },
+    {
+      "link": "https://www.media.mit.edu/projects/a-date-with-yourself/overview/",
+      "name": "A Date With Yourself",
+      "src": "img/pth/date.jpg",
+      "desc": "An artistic experience to trace how your identity has moulded in subtle ways over the years.",
+      "meta": "2017 • MIT Media Lab",
+      "pos": 29.9
+    },
+    {
+      "link": "trafix.html",
+      "name": "Trafix",
+      "src": "img/pth/10.gif",
+      "desc": "Gamification based platform to reinforce good traffic behavior. Top 10 in India in GE Edison Challenge.",
+      "meta": "2016 • GE Edison challenge",
+      "pos": 60.0
+    },
+    {
+      "link": "http://mas834.media.mit.edu/2017/11/01/team-8-scentiment/",
+      "name": "Scentiment",
+      "src": "img/pth/scent.jpg",
+      "desc": "Product lets loved ones transcend physical boundaries by synchronizing spatial presence through smell.",
+      "meta": "2017 • MIT Media Lab",
+      "pos": 70.0
+    },
+    {
+      "link": "http://mas834.media.mit.edu/2017/12/06/sound-of-shape/",
+      "name": "Sound of Shape",
+      "src": "img/pth/shape.jpg",
+      "desc": "A conceptual musical instrument that enables users to create sounds by manipulating shapes.",
+      "meta": "2017 • MIT Media Lab",
+      "pos": 80.0
+    },
+    {
+      "link": "twopointtwo.html",
+      "name": "TwoPoint2",
+      "src": "img/pth/twotwo.jpg",
+      "desc": "Gamified messaging platform that stimulates deep poignant conversations, much like the 2.2 road in IIT KGP.",
+      "meta": "2016 • Self Project",
+      "pos": 100.0
+    },
+    {
+      "link": "https://skyofthoughts.github.io/",
+      "name": "Sky of Thoughts",
+      "src": "img/pth/skei.gif",
+      "desc": "A community platform that encourages users to share their sorrows, rants and anxieties with others.",
+      "meta": "2017 • Self Project",
+      "pos": 110.0
+    },
+    {
+      "link": "musical_facade.html",
+      "name": "The Musical Facade",
+      "src": "img/pth/2.gif",
+      "desc": "Art installation that responds to music by syncing its motion with the dominant frequency of a musical note.",
+      "meta": "2014 • Team Project",
+      "pos": 130.0
+    },
+    {
+      "link": "sparreo.html",
+      "name": "Sparreo",
+      "src": "img/pth/sparreo.gif",
+      "desc": "A Messenger bot that acts as a global Lost and Found – Winner, GES Hackathon 2016 at IIT Kharagpur",
+      "meta": "2016 • GES Hackathon",
+      "pos": 170.0
+    },
+    {
+      "link": "20000.html",
+      "name": "20000 Blocks",
+      "src": "img/pth/7.jpg",
+      "desc": "Gameplay to guide a group of non-experts through the creation of collaborative architectural designs.",
+      "meta": "2016 • TU Darmstadt",
+      "pos": 190.0
+    },
+    {
+      "link": "htmaa.html",
+      "name": "How to Make (Almost) Anything",
+      "src": "img/pth/10.jpg",
+      "desc": "Electronics + Fabrication + Design projects of 'How to make (almost) anything' course at Fablab.",
+      "meta": "2014 • Multiple Projects",
+      "pos": 200.0
+    },
+    {
+      "link": "vr.html",
+      "name": "Architecture with VR",
+      "src": "img/pth/9.jpg",
+      "desc": "VR + ML based framework developed for architects to get realtime cognitive analysis of their spatial design.",
+      "meta": "2015 • ETH Zurich",
+      "pos": 210.0
+    },
+    {
+      "link": "http://iashris.com/quickies/square.html",
+      "name": "Algorithmic Art",
+      "src": "img/pth/algoart.jpg",
+      "desc": "Pattern generator that lets children create shapes such as cardoids and nephroids (Desktop only)",
+      "meta": "2016 • Self Project",
+      "pos": 240.0
+    },
+    {
+      "link": "https://towardsdatascience.com/visualising-my-facebook-network-clusters-346bac842a63",
+      "name": "Facebook Clusters Visualization",
+      "src": "img/pth/clusters.jpg",
+      "desc": "A visual exploration of my Facebook friend list to study clustering in social networks.",
+      "meta": "2018 • Self Project",
+      "pos": 9.9
+    },
+    {
+      "link": "https://towardsdatascience.com/the-13-x-29-project-visualizing-how-india-reacted-to-decriminalization-of-homosexuality-8d105f828748",
+      "name": "13 x 29",
+      "src": "img/pth/p13x29.gif",
+      "desc": "Analysis of reactions to the Supreme Court Verdict to decriminalize homosexuality in India.",
+      "meta": "2018 • Self Project",
+      "pos": 25.0
+    }
+  ],
+  "publications": [
+    {
+      "name": "Mathland: Playful Mathematical Learning in Mixed Reality",
+      "link": "https://dl.acm.org/citation.cfm?id=3186499",
+      "authors": "Mina Khan, Fernando Trujano, <b>Ashris Choudhury</b>, Pattie Maes",
+      "place": "Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems, Toronto"
+    },
+    {
+      "name": "Biased Bots: Conversational Agents to Overcome Polarization",
+      "link": "https://dl.acm.org/citation.cfm?id=3274189",
+      "authors": "Tilman Dingler, <b>Ashris Choudhury</b>, Vassilis Kostakos ",
+      "place": "Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers, Singapore"
+    }
+  ],
+  "internships": [
+    {
+      "logo": "mit.png",
+      "website": "https://www.media.mit.edu/",
+      "position": "Visiting Student",
+      "time": "2017-18",
+      "desc": "Worked in an interdisciplinary group of hybrid computer scientists, designers, and artists at the FLuid Interfaces, MIT Media Lab. Worked on Mixed Reality based educational apps and wearables that can decode what the mind is thinking."
+    },
+    {
+      "logo": "logoethz.png",
+      "website": "http://www.ethz.ch/",
+      "position": "Research Assistant",
+      "time": "Summers 2015",
+      "desc": "Developed a design tool for urban planners to predict the cognitive response to city spaces based on their. Worked in an interdisciplinary group of hybrid computer scientists, designers, and artists."
+    },
+    {
+      "logo": "witw.png",
+      "website": "http://blink.watch/",
+      "position": "Product Intern",
+      "time": "Winters 2016",
+      "desc": "I was the Product Design intern at <a href='http://economictimes.indiatimes.com/small-biz/security-tech/technology/consumer-iot-startup-witworks-launches-its-first-smartwatch-blink/articleshow/54602642.cms'>Witworks, a tech startup</a> in Bangalore. I worked on their second product called <a href='https://www.techinasia.com/iot-startup-blink-raises-funding-india-homegrown-smartwatch'>'Blink'</a>, an IoT wearable that provide access to services on-the-go."
+    },
+    {
+      "logo": "fab.png",
+      "website": "https://www.fablabs.io/fablabcept",
+      "position": "Research Assistant",
+      "time": "Summers 2014",
+      "desc": "As a maker intern, I developed <a href='musical_facade.html'>'The Musical Facade'</a>, a dynamic screen that responds to music with motion. I did hands-on programming, electronic design, digitial fabrication to materialize my ideas into things."
+    }
+  ],
+  "conferences": [
+    {
+      "link": "http://smartgeometry.org/gothenburg/",
+      "img": "chalmers.png",
+      "name": "Smartgeometry 2016",
+      "place": "Sweden",
+      "desc": "I was selected in the '20,000 Blocks' Cluster headed by DU Darmstadt at Smartgeometry 2016. We worked on a gamified architectural platform to allow non-architects be an active part of the design process while having fun."
+    },
+    {
+      "link": "http://acadia.org/news/RFAF3T",
+      "img": "cuhk.png",
+      "name": "Smartgeometry 2014",
+      "place": "Hong Kong",
+      "desc": "In the 2014 edition, I was part of the 'Design Space Exploration' Cluster headed by ETH Zurich. We worked on devising algorithms that automated urban planning by taking subjective user input into consideration."
+    }
+  ]
+}

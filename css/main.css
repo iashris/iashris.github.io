@@ -1,0 +1,397 @@
+@import url('https://fonts.googleapis.com/css?family=Karma:500,500i,700');
+
+html,
+body {
+  max-width: 100%;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: visible;
+  background: #fdf9f2 !important;
+  font-weight: 500;
+  font-family: 'Karma', sans-serif, arial, serif !important;
+}
+.footerbrand {
+  margin-left: 0%;
+}
+::selection {
+  background: #fff5be; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #fff5be; /* Gecko Browsers */
+}
+.jumpro,
+.fakein {
+  color: #c11603;
+  font-weight: 700;
+  cursor: pointer;
+}
+.bannertext {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  z-index: 100;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  min-width: 320px;
+}
+#logobanner {
+  width: 250px;
+  height: auto;
+  display: inline-block;
+  opacity: 0.9;
+  filter: alpha(opacity=90);
+  cursor: pointer;
+  border-radius: 50%;
+}
+.headline {
+  margin-top: 0px !important;
+  font-size: 4em;
+  color: #554947;
+  font-weight: 500;
+  font-family: 'Karma', sans-serif;
+  position: relative;
+}
+.subline {
+  color: #402917;
+  font-size: 1.2em;
+  padding: 15px;
+  /**/
+}
+
+.mainbody {
+  z-index: 99;
+  clear: both;
+  display: block;
+}
+#introbanner {
+  height: 100%;
+}
+.interntitle {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: flex-end;
+  margin-bottom: 15px;
+}
+.internships > p {
+  margin-top: 15px;
+}
+.interntitle > h4 {
+  margin-bottom: 0px;
+  margin-left: 15px;
+}
+.internlogo {
+  height: 28px;
+}
+.conflogo {
+  margin-bottom: 5%;
+  height: 43px;
+}
+hr.style16 {
+  border-top: 1px dashed #8c8b8b;
+}
+hr.style16:after {
+  content: '\002702';
+  display: inline-block;
+  position: relative;
+  top: -12px;
+  left: 40px;
+  padding: 0 3px;
+  background: #fdf9f2;
+  color: #8c8b8b;
+  font-size: 18px;
+}
+.mainbody {
+  margin-top: 5%;
+}
+.blocker {
+  margin-bottom: 4%;
+}
+.major {
+  text-transform: lowercase;
+  font-size: 2em !important;
+  font-weight: 500 !important;
+}
+.minor {
+  color: #402917;
+  font-size: 1.2em !important;
+}
+
+.pitem {
+  margin-top: 5%;
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 6%;
+  zoom: 1;
+  letter-spacing: normal;
+  word-spacing: normal;
+  vertical-align: top;
+  text-rendering: auto;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.proname {
+  margin-top: 20px;
+  font-size: 1em;
+  font-weight: 700;
+  display: block;
+}
+.hobbies {
+  text-align: center;
+}
+
+.abme > p {
+  margin-bottom: 5%;
+  margin-left: 4%;
+}
+.procat {
+  margin-top: 20px;
+  display: block;
+  font-size: 1.1em;
+  font-weight: 500;
+  text-align: justify;
+}
+a {
+  color: #c11603 !important;
+  font-weight: 700;
+  cursor: pointer;
+}
+i {
+  color: #f73f2a;
+}
+i.introscroll {
+  font-size: 3em !important;
+  margin-top: 15%;
+  opacity: 0.8;
+  cursor: pointer;
+}
+i.social {
+  color: #fff;
+  background: #f73f2a;
+  padding: 10px;
+  width: 32px !important;
+  border-radius: 50%;
+}
+a:hover {
+  color: #f73f2a !important;
+  text-decoration: none !important;
+}
+.portfolioimage {
+  opacity: 0.9;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 50%;
+  max-width: 80%;
+  display: inline-block;
+  position: relative;
+  margin-top: 10%;
+}
+
+.portfolio {
+  margin-top: 5%;
+}
+
+.footer {
+  margin-bottom: 0px;
+  margin-top: 10%;
+}
+
+.navbar-default {
+  background-color: #fdf9f2 !important;
+}
+#cover {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background: #fdf9f2;
+  z-index: 9999;
+}
+.ajax-loader {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto; /* presto! */
+}
+hr.sep {
+  background-color: black;
+  border: 0;
+  height: 2px;
+  margin-bottom: 21px;
+  width: 42px;
+}
+.aboutnav {
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+.nav > li > a {
+  font-size: 1.2em;
+}
+.secheader {
+  font-size: 2em;
+  text-align: center;
+}
+.shuruwaat {
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 15px;
+  padding-right: 15px;
+}
+.dexsec > h3 {
+  font-weight: 700;
+  color: #f73f2a;
+  margin-bottom: 10%;
+}
+.dexsec > h5 {
+  font-weight: 700;
+  margin-bottom: 1%;
+}
+.dexsec > p,
+li {
+  margin-top: 1%;
+  margin-bottom: 8%;
+}
+.imxsec > figure > img {
+  width: 100%;
+  height: auto;
+}
+.imxsec > iframe {
+  width: 100% !important;
+  min-height: 400px;
+}
+.imxsec > p {
+  font-size: 1.2em;
+  margin: 5vh 0px;
+}
+figcaption {
+  font-style: italic;
+  margin-bottom: 3.5%;
+}
+img.footerlogo {
+  position: absolute;
+  margin-top: 5px;
+  display: none;
+}
+p.centrf {
+  text-align: center;
+  display: block;
+  margin-top: 22px;
+  font-size: 1.2em;
+}
+.logos {
+  text-align: center;
+}
+.hidden {
+  display: none;
+}
+a.potato {
+  cursor: pointer;
+}
+.pitem:nth-child(2),
+.minor.col-md-3:nth-child(3) {
+  border: 0;
+}
+@keyframes heartbeat {
+  0% {
+    transform: scale(0.75);
+  }
+  20% {
+    transform: scale(1);
+  }
+  40% {
+    transform: scale(0.75);
+  }
+  60% {
+    transform: scale(1);
+  }
+  80% {
+    transform: scale(0.75);
+  }
+  100% {
+    transform: scale(0.75);
+  }
+}
+
+.fa-heart {
+  animation: heartbeat 1s infinite;
+}
+@media screen and (min-width: 800px) {
+  /*Applies to screen more than 1000 or the md thingies, above works for sm*/
+  .pitema:nth-child(2),
+  .minor.col-md-3:nth-child(3) {
+    border: 1px solid #ddd;
+    border-top: 0;
+    border-bottom: 0;
+  }
+
+  .portfolioimage {
+    max-width: 72%;
+  }
+  .proname {
+    margin-top: 20px;
+    font-size: 1.4em;
+    font-weight: 700;
+  }
+  .prometa {
+    color: #444;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 0.85em;
+    display: inline-block;
+  }
+  .procat {
+    /*  display: none;
+  visibility: hidden;*/
+    margin-top: 16px;
+    font-size: 1.2em;
+    font-weight: 500;
+    width: 85%;
+    text-align: left;
+    margin-left: 7.5%;
+  }
+  .minor {
+    font-size: 1.2em;
+  }
+  .pitem {
+    margin-top: 0.2%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  img.footerlogo {
+    display: block;
+  }
+  p.centrf {
+    position: absolute;
+    left: 22%;
+  }
+  .logos {
+    padding-left: 18%;
+  }
+  .thumbnails {
+    margin-top: 5%;
+    text-align: center;
+  }
+  .imxsec > iframe {
+    width: 100%;
+    min-height: 400px;
+  }
+  .footerbrand {
+    margin-left: 70%;
+  }
+}
+
+@media screen and (min-width: 700px) {
+}
+
+@media screen and (min-width: 550px) {
+}
